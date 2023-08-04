@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613309418797",
+    "project_id": "corevault-6f852",
+    "storage_bucket": "corevault-6f852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613309418797:android:f085fb2af47a217cd617a4",
+        "android_client_info": {
+          "package_name": "com.asj.corevault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613309418797-s2rjmg684he1tgerb50c6ouodo9gh58k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asj.corevault",
+            "certificate_hash": "e7a732c8c82186c80a4791311677336c52ad9991"
+          }
+        },
+        {
+          "client_id": "613309418797-a7pt5g586ve9e1f4bu2hr6t16m8j9jc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNjieLLRC1yobFyexjxHrw65GuwoUV2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613309418797-a7pt5g586ve9e1f4bu2hr6t16m8j9jc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
